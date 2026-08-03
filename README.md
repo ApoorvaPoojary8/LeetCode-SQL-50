@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/ApoorvaPoojary8/LeetCode-SQL-50/tree/master/0229-majority-element-ii) |
+| [0875-koko-eating-bananas](https://github.com/ApoorvaPoojary8/LeetCode-SQL-50/tree/master/0875-koko-eating-bananas) |
 ## Hash Table
 |  |
 | ------- |
@@ -21,4 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/ApoorvaPoojary8/LeetCode-SQL-50/tree/master/0229-majority-element-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0875-koko-eating-bananas](https://github.com/ApoorvaPoojary8/LeetCode-SQL-50/tree/master/0875-koko-eating-bananas) |
 <!---LeetCode Topics End-->
