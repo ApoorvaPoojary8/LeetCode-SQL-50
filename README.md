@@ -26,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0875-koko-eating-bananas](https://github.com/ApoorvaPoojary8/LeetCode-SQL-50/tree/master/0875-koko-eating-bananas) |
+## Database
+|  |
+| ------- |
+| [1661-average-time-of-process-per-machine](https://github.com/ApoorvaPoojary8/LeetCode-SQL-50/tree/master/1661-average-time-of-process-per-machine) |
 <!---LeetCode Topics End-->
