@@ -7,14 +7,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ApoorvaPoojary8/LeetCode-SQL-50/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0229-majority-element-ii](https://github.com/ApoorvaPoojary8/LeetCode-SQL-50/tree/master/0229-majority-element-ii) |
 | [0875-koko-eating-bananas](https://github.com/ApoorvaPoojary8/LeetCode-SQL-50/tree/master/0875-koko-eating-bananas) |
+| [3731-find-missing-elements](https://github.com/ApoorvaPoojary8/LeetCode-SQL-50/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/ApoorvaPoojary8/LeetCode-SQL-50/tree/master/0229-majority-element-ii) |
+| [3731-find-missing-elements](https://github.com/ApoorvaPoojary8/LeetCode-SQL-50/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/ApoorvaPoojary8/LeetCode-SQL-50/tree/master/0229-majority-element-ii) |
+| [3731-find-missing-elements](https://github.com/ApoorvaPoojary8/LeetCode-SQL-50/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
 | ------- |
